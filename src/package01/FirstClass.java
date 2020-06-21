@@ -1,6 +1,6 @@
-package git_proje01;
+package package01;
 
-public class Git_proje01 {
+public class FirstClass {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
